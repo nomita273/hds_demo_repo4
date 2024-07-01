@@ -1,0 +1,16 @@
+Status for git directory: C:/HDS/hds_clone_test/hds_demo_repo4
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   uart/hdl/uart_top_struct.vhd
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_z004pz7v/
+	uart/hds/_uart_top._epf
+
+no changes added to commit (use "git add" and/or "git commit -a")
+

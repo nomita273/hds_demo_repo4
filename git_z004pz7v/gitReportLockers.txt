@@ -1,0 +1,10 @@
+Lockers inside directory: C:/HDS/hds_clone_test/hds_demo_repo4
+uart/hdl/address_decode_tbl.vhd     	nomita273	ID:4927676
+uart/hdl/clock_divider_flow.vhd     	nomita273	ID:4927675
+uart/hdl/control_operation_fsm.vhd  	nomita273	ID:4927674
+uart/hdl/cpu_interface_intconx.vhd  	nomita273	ID:4927673
+uart/hdl/serial_interface_struct.vhd	nomita273	ID:4927677
+uart/hdl/status_registers_spec.vhd  	nomita273	ID:4927680
+uart/hdl/uart_top_struct.vhd        	nomita273	ID:4927672
+uart/hdl/xmit_rcv_control_asm.vhd   	nomita273	ID:4927678
+uart/hdl/xmit_rcv_control_fsm.vhd   	nomita273	ID:4927679
